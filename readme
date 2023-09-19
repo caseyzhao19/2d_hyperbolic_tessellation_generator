@@ -1,0 +1,3 @@
+generate tessellation by running tilings2d.py with the arguments 
+p q x y
+where {p, q} is the schlaefi symbol, and (x, y) in [-1, 1] x [-1, 1] is the coordinates of where you want the tessellation to be centered
